@@ -1,0 +1,1 @@
+# isPrime-using-prototype
